@@ -19,7 +19,7 @@ Un script Python simple et efficace pour télécharger des playlists YouTube en 
 
 ## Installation
 
-1. Clonez ce dépôt ou téléchargez le fichier `youtube_playlist_downloader.py`
+1. Clonez ce dépôt ou téléchargez le fichier `playload.py`
 
 2. Installer les dépendances requises :
 ```bash
@@ -31,7 +31,7 @@ pip install yt-dlp
 
 1. Exécutez le script :
 ```bash
-python youtube_playlist_downloader.py
+python playload.py
 ```
 
 2. Suivez les instructions à l'écran :
